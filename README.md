@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-A first repository
+A first repository.
+
+This is the readme.
